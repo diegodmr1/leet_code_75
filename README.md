@@ -13,7 +13,7 @@ My solutions and notes from LeetCode 75.
 
 ## Statuses
 
-- To do
+- To do - To be done
 - Solved — Implemented, but acceptance not yet confirmed.
 - Accepted — Accepted by LeetCode.
 - Review — Needs another attempt or further study.
