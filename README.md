@@ -3,7 +3,7 @@
 My solutions and notes from LeetCode 75.
 
 - Language: Java
-- Progress: 4/75
+- Progress: 5/75
 
 ## Problems
 
@@ -13,6 +13,7 @@ My solutions and notes from LeetCode 75.
 | [1071 — Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Arrays and strings | Accepted | [Code](arrays-and-strings/1071-greatest-common-divisor-of-strings/Solution.java) | [Notes](arrays-and-strings/1071-greatest-common-divisor-of-strings/README.md) |
 | [1431 — Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays and strings | Accepted | [Code](arrays-and-strings/1431-kids-with-the-greatest-number-of-candies/Solution.java) | [Notes](arrays-and-strings/1431-kids-with-the-greatest-number-of-candies/README.md) |
 | [605 — Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays and strings | Accepted | [Code](arrays-and-strings/605-can-place-flowers/Solution.java) | [Notes](arrays-and-strings/605-can-place-flowers/README.md) |
+| [345 — Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Arrays and strings | Accepted | [Code](arrays-and-strings/345-reverse-vowels-of-a-string/Solution.java) | [Notes](arrays-and-strings/345-reverse-vowels-of-a-string/README.md) |
 
 ## Statuses
 
