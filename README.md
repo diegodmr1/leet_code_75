@@ -3,7 +3,13 @@
 My solutions and notes from LeetCode 75.
 
 - Language: Java
-- Progress: 7/75
+- Progress: 8/75
+
+## Organization
+
+Each problem has its own folder under `arrays-and-strings/`, containing `Solution.java` and a `README.md` with notes. Folder names use the official problem number followed by its title in kebab-case.
+
+Each `Solution.java` is an independent LeetCode submission. Different problems can use the same `Solution` class name; compile them separately.
 
 ## Problems
 
@@ -16,6 +22,7 @@ My solutions and notes from LeetCode 75.
 | [345 — Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Arrays and strings | Accepted | [Code](arrays-and-strings/345-reverse-vowels-of-a-string/Solution.java) | [Notes](arrays-and-strings/345-reverse-vowels-of-a-string/README.md) |
 | [151 — Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Arrays and strings | Accepted | [Code](arrays-and-strings/151-reverse-words-in-a-string/Solution.java) | [Notes](arrays-and-strings/151-reverse-words-in-a-string/README.md) |
 | [238 — Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Arrays and strings | Accepted | [Code](arrays-and-strings/238-product-of-array-except-self/Solution.java) | [Notes](arrays-and-strings/238-product-of-array-except-self/README.md) |
+| [334 — Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays and strings | Accepted | [Code](arrays-and-strings/334-increasing-triplet-subsequence/Solution.java) | [Notes](arrays-and-strings/334-increasing-triplet-subsequence/README.md) |
 
 ## Statuses
 
